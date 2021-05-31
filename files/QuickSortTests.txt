@@ -1,0 +1,76 @@
+C:\Users\roger\.jdks\openjdk-15\bin\java.exe "-javaagent:C:\Users\roger\AppData\Local\JetBrains\IntelliJ IDEA 2020.2.2\lib\idea_rt.jar=62155:C:\Users\roger\AppData\Local\JetBrains\IntelliJ IDEA 2020.2.2\bin" -Dfile.encoding=UTF-8 -classpath B:\Java\paed-p1\out\production\paed-p1;C:\Users\roger\.m2\repository\org\jetbrains\annotations\19.0.0\annotations-19.0.0.jar;C:\Users\roger\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.3\jackson-databind-2.11.3.jar;C:\Users\roger\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.3\jackson-annotations-2.11.3.jar;C:\Users\roger\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.3\jackson-core-2.11.3.jar com.rogermiranda1000.PAED_P1.Main
+Loading files...
+-- dataseetXL --
+Sorting by QuickSort....
+	Min time: 223,200 [ns]
+	Max time: 3,713,700 [ns]
+	Avg time: 1,257,261 [ns]
+Sorting by ParalelQuickSort....
+	Min time: 3,943,400 [ns]
+	Max time: 45,978,900 [ns]
+	Avg time: 10,131,690 [ns]
+-- dataseetS --
+Sorting by QuickSort....
+	Min time: 500 [ns]
+	Max time: 320,800 [ns]
+	Avg time: 4,663 [ns]
+Sorting by ParalelQuickSort....
+	Min time: 1,356,900 [ns]
+	Max time: 1,764,900 [ns]
+	Avg time: 1,488,070 [ns]
+-- custom3490000 --
+Sorting by QuickSort....
+	Min time: 2,452,399,900 [ns]
+	Max time: 2,658,011,300 [ns]
+	Avg time: 2,498,674,126 [ns]
+Sorting by ParalelQuickSort....
+	Min time: 985,804,200 [ns]
+	Max time: 1,135,396,000 [ns]
+	Avg time: 1,007,886,090 [ns]
+-- dataseetM --
+Sorting by QuickSort....
+	Min time: 1,400 [ns]
+	Max time: 4,900 [ns]
+	Avg time: 1,561 [ns]
+Sorting by ParalelQuickSort....
+	Min time: 2,245,200 [ns]
+	Max time: 3,930,800 [ns]
+	Avg time: 2,477,830 [ns]
+-- dataseetXXL --
+Sorting by QuickSort....
+	Min time: 1,624,900 [ns]
+	Max time: 2,127,600 [ns]
+	Avg time: 1,644,434 [ns]
+Sorting by ParalelQuickSort....
+	Min time: 3,951,900 [ns]
+	Max time: 4,703,000 [ns]
+	Avg time: 4,208,400 [ns]
+-- dataseetXS --
+Sorting by QuickSort....
+	Min time: 0 [ns]
+	Max time: 700 [ns]
+	Avg time: 98 [ns]
+Sorting by ParalelQuickSort....
+	Min time: 424,600 [ns]
+	Max time: 513,000 [ns]
+	Avg time: 476,320 [ns]
+-- optional --
+Sorting by QuickSort....
+	Min time: 400 [ns]
+	Max time: 1,400 [ns]
+	Avg time: 421 [ns]
+Sorting by ParalelQuickSort....
+	Min time: 1,507,000 [ns]
+	Max time: 1,704,300 [ns]
+	Avg time: 1,600,360 [ns]
+-- dataseetL --
+Sorting by QuickSort....
+	Min time: 27,100 [ns]
+	Max time: 65,700 [ns]
+	Avg time: 29,579 [ns]
+Sorting by ParalelQuickSort....
+	Min time: 3,267,200 [ns]
+	Max time: 4,788,800 [ns]
+	Avg time: 3,719,110 [ns]
+
+Process finished with exit code 0

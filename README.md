@@ -1,4 +1,5 @@
-# Programació avançada i estructura de dades (Practica 1)
+# Programació avançada i estructura de dades 
+### Practica 1
 Practica implementada utilitzant Java amb el IDE:
 
 IntelliJ IDEA 2020.2.4 (Ultimate Edition)

@@ -1,5 +1,8 @@
 # Programació avançada i estructura de dades 
-### Practica 1
+### Sorting Algorithms
+This project has been made with Roger Miranda ([@rogermiranda1000](https://github.com/rogermiranda1000)).
+
+<br>
 Practica implementada utilitzant Java amb el IDE:
 
 IntelliJ IDEA 2020.2.4 (Ultimate Edition)
